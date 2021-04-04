@@ -1,8 +1,8 @@
 # Games
-This repository is to store the games programmed in java.
-(My first hands on project).
-(Created in 2015 using BlueJ at the age of 14).
-This repository conatains one program (.java) that consists of 9 games: 
+This repository is to store the games programmed in java.  
+(My first hands on project).  
+(Created in 2015 using BlueJ at the age of 14).  
+This repository conatains one program (.java) that consists of 9 games:   
 1) Hangman.
 2) X and 0.
 3) Jumble words.
