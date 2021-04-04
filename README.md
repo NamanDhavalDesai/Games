@@ -1,5 +1,6 @@
 # Games
 This repository is to store the games programmed in java.  
+This repository contains one file named Games.java.  
 (My first hands on project).  
 (Created in 2015 using BlueJ at the age of 14).  
 This repository conatains one program (.java) that consists of 9 games:   
